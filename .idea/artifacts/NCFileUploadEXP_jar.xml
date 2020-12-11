@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="NCFileUploadEXP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NCFileUploadEXP_jar</output-path>
+    <root id="root">
+      <element id="archive" name="NCFileUploadEXP.jar">
+        <element id="module-output" name="NCFileUploadEXP" />
+      </element>
+    </root>
+  </artifact>
+</component>
